@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sergioaguirre13
 - 👀 I’m interested in coding & gaming!
-- 🌱 I’m currently learning C# & 
+- 🌱 I’m currently learning C# & mySQL
 - 📫 How to reach me: sergioaguirre1981@gmail.com
 - 😄 Pronouns: He/
 - ⚡ Fun fact: I´m a Boca Juniors fan 
